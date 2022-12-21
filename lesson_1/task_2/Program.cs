@@ -2,10 +2,10 @@
 if ( a > b)
 {
     int max = a;
-    Console.WriteLine("Максимальное число:" + max);
+    Console.WriteLine("Максимальное число: " + max);
 } else
 {
     int max = b;
-    Console.WriteLine("Максимальное число:" + max);
+    Console.WriteLine("Максимальное число: " + max);
 }
 
